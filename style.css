@@ -23,18 +23,20 @@ article {
 
 
 header {
-    color: skyblue;
+    color: rgb(163, 93, 196);
     text-align: center;
 }
 
-
-footer {
-    text-align: center;
-    padding-bottom: 10px;
+ul {
+    color: rgb(163, 93, 196);
 }
-
 
 /* specifieke stijlen */
+
+.img1 {
+  
+  
+}
 
 img.zweefLinks {
     float: left;
@@ -59,8 +61,8 @@ a:hover {
 nav ul {
     list-style-type: none;
     margin: auto;
-    padding: 0;
-    background-color: #dddddd;
+    padding: 15px;
+    background-color: rgb(172, 58, 224);
     overflow: hidden;
 }
 
@@ -77,12 +79,17 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: rgb(172, 58, 224);
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: rgb(177, 114, 206);
 }
+
+            body {
+              background-image: url(https://besthqwallpapers.com/Uploads/18-2-2021/155765/thumb-genshin-impact-popular-game-genshin-impact-silver-logo-gray-carbon-fiber-background-genshin-impact-logo.jpg);
+              height:fit-content;
+            }
 
 
 
