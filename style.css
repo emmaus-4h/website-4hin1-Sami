@@ -5,7 +5,7 @@ html, body {
     padding: 0;
     background-color: #EEEEEE;  
     
-    color: #303030;
+    color:white;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -34,6 +34,9 @@ ul {
 /* specifieke stijlen */
 
 .img1 {
+  padding: 12px;
+  width: 350px;
+  float: right;
   
   
 }
@@ -87,7 +90,7 @@ nav li a.active {
 }
 
             body {
-              background-image: url(https://besthqwallpapers.com/Uploads/18-2-2021/155765/thumb-genshin-impact-popular-game-genshin-impact-silver-logo-gray-carbon-fiber-background-genshin-impact-logo.jpg);
+              background-image: url(https://w0.peakpx.com/wallpaper/271/9/HD-wallpaper-video-game-genshin-impact-inazuma-genshin-impact.jpg);
               height:fit-content;
             }
 
