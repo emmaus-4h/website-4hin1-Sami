@@ -29,9 +29,16 @@ header {
 
 ul {
     color: rgb(163, 93, 196);
+    width:fit-content;
+    border: 2px solid rgb(236, 108, 219);
 }
 
 /* specifieke stijlen */
+
+.menu1{
+  border-radius: 15px 50px;
+  background: #73AD21;
+}
 
 .box1 {
   text-color:white;
@@ -78,7 +85,7 @@ nav ul {
 }
 
 nav ul li {
-    float: left;
+  float: left;
 }
 
 nav li a {
@@ -95,6 +102,14 @@ nav li a:hover {
 
 nav li a.active {
     background-color: rgb(177, 114, 206);
+}
+
+nav li a.home {
+  border-radius: 15px 50px;
+  background: rgb(77, 11, 94);
+  padding: 20px; 
+  width: 200px;
+  height: 20px; 
 }
 
             body {
