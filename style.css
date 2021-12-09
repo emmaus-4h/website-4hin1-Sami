@@ -41,6 +41,12 @@ ul {
 }
 
 .box1 {
+  border: 3px solid rgb(0, 0, 0);
+  width: 600px;
+  padding: 2px;
+}
+
+.box2 {
   text-color:white;
   width: 600px;
   margin: 20px;
@@ -105,8 +111,8 @@ nav li a.active {
 }
 
 nav li a.home {
-  border-radius: 15px 50px;
-  background: rgb(77, 11, 94);
+  border-radius: 50px 50px 500px 500px;
+  background: rgb(104, 30, 122);
   padding: 20px; 
   width: 200px;
   height: 20px; 
