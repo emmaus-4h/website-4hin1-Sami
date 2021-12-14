@@ -23,14 +23,15 @@ article {
 
 
 header {
-    color: rgb(163, 93, 196);
+    color: rgb(155, 68, 196);
     text-align: center;
+    text-shadow:2px 2px 5px white;
 }
 
 ul {
     color: rgb(163, 93, 196);
     width:fit-content;
-    border: 2px solid rgb(236, 108, 219);
+    border: 3px solid rgb(75, 11, 95);
 }
 
 /* specifieke stijlen */
@@ -41,9 +42,10 @@ ul {
 }
 
 .box1 {
-  border: 3px solid rgb(0, 0, 0);
-  width: 600px;
+  border: 3px solid rgb(75, 11, 95);
+  height: 45px;
   padding: 2px;
+
 }
 
 .box2 {
@@ -107,12 +109,12 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: rgb(177, 114, 206);
+    background-image:linear-gradient(purple, violet);
 }
 
 nav li a.home {
   border-radius: 50px 50px 500px 500px;
-  background: rgb(104, 30, 122);
+  background-image: rgb(0, 0, 0);
   padding: 20px; 
   width: 200px;
   height: 20px; 
