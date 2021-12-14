@@ -1,5 +1,6 @@
 /* Basislayout */
 
+
 html, body {
     height: 100%;
     padding: 0;
@@ -121,12 +122,20 @@ nav li a.home {
 }
 
             body {
-              background-image: url(https://w0.peakpx.com/wallpaper/271/9/HD-wallpaper-video-game-genshin-impact-inazuma-genshin-impact.jpg);
+              background-image: url(https://www.xtrafondos.com/wallpapers/viajero-aether-y-lumine-from-genshin-impact-7761.jpg);
               height:100%;
               margin:0px;
+              background-repeat: no-repeat;
+              background-position: center;
+              background-size: cover;
             }
 
-
+.pyro {
+  float: left;
+  size: 100px;
+  margin-up: 20px;
+  margin-left: 100px
+}
 
 
 
