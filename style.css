@@ -54,20 +54,20 @@ ul {
   width: 600px;
   margin: 20px;
   padding: 20px;
-  border: 3px solid rgb(163, 93, 196);
-  background: rgba(0,0,0,0.5); 
-}
-
-.boxpyro {
-  margin:3px;
+  border: 4px solid rgb(163, 93, 196);
+  background: rgba(0,0,0,0.5);
 }
 
 .video1 {
-   width: "320";
-   height: "190";
-   float: right;
+  border: 3px solid rgb(163, 93, 196);
   margin: 10px;
+  float: right;
+  width:1280;
+  height:720; 
+}
 
+.boxpyro {
+  margin: 3px;
 }
 
 .img1 {
@@ -144,7 +144,11 @@ nav li a.home {
 
 .element1 {
   padding: 9px;
-    margin-down: 10px;
+  margin-down: 10px;
+  background-color: rgba(19, 3, 37, 0.541);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block
 }
 
 
