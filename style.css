@@ -166,5 +166,10 @@ nav li a.home {
   color:rgb(14, 14, 170);
 }
 
+table, th, td {
+  border:1px solid black;
+}
 
-
+.img2 {
+  width: 50px;
+}
