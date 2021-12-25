@@ -4,7 +4,6 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
     
     color:white;
     font: Verdana, Arial, Sans-Serif;
@@ -140,6 +139,7 @@ nav li a.home {
               background-repeat: no-repeat;
               background-position: center;
               background-size: cover;
+              background-attachment: fixed;
             }
 
 .element1 {
@@ -172,4 +172,16 @@ table, th, td {
 
 .img2 {
   width: 50px;
+}
+
+.img3 {
+  width: 200px;
+  float: right;
+  padding: 12px;
+}
+
+.img4 {
+  width: 170px;
+  float: left;
+  padding: 12px;
 }
